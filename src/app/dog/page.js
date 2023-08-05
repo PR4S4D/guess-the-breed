@@ -34,7 +34,7 @@ export default async function Dog() {
           name={name}
           bred_for={bred_for}
           breed_group={breed_group}
-          life_span={temperament}
+          life_span={life_span}
           temperament={temperament}
         />
       </div>
